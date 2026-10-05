@@ -1,0 +1,1 @@
+Esse repositório tem como finalidade apresentar um protótipo ao SENAI , eu e meu grupo tivemos a ideia de fazer uma empresa nesse ramo para o tcc no nosso curso , então eu desenvolvi esse pequeno protótipo com o auxílio do claude.ia.
